@@ -2,7 +2,7 @@
 
 ## Pair Information
 - Student A: Renzo Widjaja
-- GitHub username: 
+- GitHub username: Renzowidjaja
 - Student B: 
 - GitHub username: 
 
