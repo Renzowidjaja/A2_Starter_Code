@@ -3,8 +3,8 @@
 ## Pair Information
 - Student A: Renzo Widjaja
 - GitHub username: Renzowidjaja
-- Student B: 
-- GitHub username: 
+- Student B: Max Endler
+- GitHub username: MaxEndler7
 
 ## Branch Work
 - Feature branch created: 
